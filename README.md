@@ -5,7 +5,7 @@
 
 ## Status
 
-🚧 **Work in progress** — codebase is being cleaned and published in stages.
+**Work in progress** — codebase is being cleaned and published in stages.
 Original prototype developed during my internship at dazerolab (April–May 2026).
 
 ## Tech Stack
