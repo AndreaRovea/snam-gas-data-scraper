@@ -6,7 +6,7 @@
 
 ## Status
 
-**Work in progress** — codebase is being written and published in incremental
+🚧 **Work in progress** — codebase is being written and published in incremental
 stages as a personal learning exercise on **publicly available data only**.
 Inspired by my interest in RPA and process automation developed during a recent
 professional experience.
